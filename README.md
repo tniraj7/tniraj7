@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tniraj7
+- 👋 Hi, I’m Niraj.
 - 👀 I’m interested in building iOS and Android apps.
 - 🌱 I’m currently learning Kotlin Multiplatform Mobile
 - 💞️ I’m looking to collaborate on iOS / Android / KMM projects
