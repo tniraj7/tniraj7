@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Niraj.
 - 👀 I’m interested in building iOS and Android apps.
-- 🌱 I’m currently learning Kotlin Multiplatform Mobile
 - 💞️ I’m looking to collaborate on iOS projects
 - 📫 Get in touch with me on Twitter : https://twitter.com/niraj_j_tiwari
 
