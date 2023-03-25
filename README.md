@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Niraj.
-- 👀 I’m interested in building iOS and Android apps.
-- 💞️ I’m looking to collaborate on iOS projects
-- 📫 Get in touch with me on Twitter : https://twitter.com/niraj_j_tiwari
+<h1 align="center"><b>Hi , I'm Niraj Tiwari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!---
-tniraj7/tniraj7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">I am a skilled iOS adept at crafting seamless mobile solutions that drive online businesses forward with a strong background in Swift, UIKit and SwiftUI </h3>
+
+- 🧑🏽‍💻 I’m currently working on iOS and Android app development projects.
+- 📚 I’m currently: Experimenting SwiftUI and Jetpack Compose.
+- 💬 Ask me about: Swift, Kotlin, SwiftUI, UIKit and Android App Developement
+- 💪🏼 Future Goals: Explore mobile app technologies.
+- ⚡ My interests: iOS development, playing video games and Photography.
+- 💻 Outside tech: Exploring new places.
+
+📫  Feel free to reach me:
+
+[![Email](https://img.shields.io/badge/Email-tniraj7@gmail.com%20-blue)](mailto:tniraj7@gmail.com?)
+[![Twitter: NirajTiwari](https://img.shields.io/twitter/follow/NirajTiwari?style=social)](https://twitter.com/NirajTiwari_)
