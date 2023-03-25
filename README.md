@@ -11,5 +11,5 @@
 
 📫  Feel free to reach me:
 
-[![Email](https://img.shields.io/badge/Email-tniraj7@gmail.com%20-blue)](mailto:tniraj7@gmail.com?)
-[![Twitter: NirajTiwari](https://img.shields.io/twitter/follow/NirajTiwari?style=social)](https://twitter.com/NirajTiwari_)
+[![Email](https://img.shields.io/badge/Email-tniraj7@gmail.com%20-blue?style=style=plastic&logo=appveyor)](mailto:tniraj7@gmail.com?)
+[![Twitter: NirajTiwari](https://img.shields.io/twitter/follow/NirajTiwari?color=green&style=style=plastic&logo=appveyor)](https://twitter.com/NirajTiwari_)
