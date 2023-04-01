@@ -6,7 +6,7 @@
 - 📚 I’m currently: Experimenting SwiftUI and Jetpack Compose.
 - 💬 Ask me about: Swift, Kotlin, SwiftUI, UIKit and Android App Developement
 - 💪🏼 Future Goals: Explore mobile app technologies.
-- ⚡ My interests: iOS development, playing video games and Photography.
+- ⚡ My interests: iOS development, playing video games.
 - 💻 Outside tech: Exploring new places.
 
 📫  Feel free to reach me:
