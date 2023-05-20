@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Niraj Tiwari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">I am a skilled iOS adept at crafting seamless mobile solutions that drive online businesses forward with a strong background in Swift, UIKit and SwiftUI </h3>
+<h3 align="center">I am a skilled iOS Engineer at crafting mobile solutions that drive online businesses forward with a strong background in Swift, UIKit and SwiftUI </h3>
 
 - 🧑🏽‍💻 I’m currently working on iOS and Android app development projects.
 - 📚 I’m currently: Experimenting Kotlin Multiplatform Mobile with SwiftUI and Jetpack Compose.
