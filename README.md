@@ -5,7 +5,7 @@
 - 🧑🏽‍💻 I’m currently working on iOS and Android app development projects.
 - 📚 I’m currently: Experimenting Kotlin Multiplatform Mobile with SwiftUI and Jetpack Compose.
 - 💬 Ask me about: Swift, Kotlin, SwiftUI, UIKit and Android App Developement
-- 💪🏼 Future Goals: Explore mobile app technologies.
+- 💪🏼 Future Goals: Explore native mobile app development technologies.
 - ⚡ My interests: iOS development, playing video games.
 - 💻 Outside tech: Exploring new places.
 
